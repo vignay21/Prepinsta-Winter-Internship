@@ -1,2 +1,2 @@
-# ArijitDhali/PrepInsta-DA-Week-8
+# PrepInsta-DA-Week-8
  Prepinsta Capstone Project
