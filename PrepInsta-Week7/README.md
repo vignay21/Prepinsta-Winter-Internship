@@ -1,4 +1,5 @@
 # Week 7 Assignment: Tableau Dashboard - India's Air Quality
+https://public.tableau.com/views/AirQualityDashboard_17067959066530/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Context
 Environmental pollution, especially air pollution, is a growing global concern. With 7 million premature deaths annually linked to air pollution, it's crucial to analyze and understand the data. In this Tableau Dashboard project, I explored India's air pollution levels over the years, aiming to correlate changes with environmental policies.
